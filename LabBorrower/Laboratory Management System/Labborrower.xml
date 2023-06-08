@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\Documents\NetBeansProjects\LabBorrower\dist\LabBorrower.jar</jar>
+  <outfile>D:\Documents\NetBeansProjects\LabBorrower\Laboratory Management System\AMT Laboratory Management System.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\Documents\NetBeansProjects\LabBorrower\systemLogo.ico</icon>
+  <singleInstance>
+    <mutexName>Lab Borrower</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
